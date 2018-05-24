@@ -1,0 +1,14 @@
+{
+  "name": "venue-api",
+  "version": "1.0.0",
+  "description": "GraphQL, Apollo, Express, MongoDB",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Tyler Maier",
+  "license": "ISC",
+  "dependencies": {
+    "graphql-yoga": "^1.14.2"
+  }
+}
